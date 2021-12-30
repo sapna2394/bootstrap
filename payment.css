@@ -1,0 +1,61 @@
+.container-fluid{
+    border: 2px solid transparent;
+    
+}
+
+.option{
+    margin-right: 15%;
+}
+.logo{
+    height: 75px;
+    width: 12%;
+    margin-left: 15%;
+}
+.payment{
+    height: 750px;
+    margin-left: 500px;
+
+}
+footer{
+    background-color: black;
+    margin-top: 0%;
+}
+.logo-img{
+    height: 63px;
+    width: 57%;
+}
+.hr{
+    height: 5px;
+    width: 50%;
+    color: rgb(0,0,0);
+    background-color: white;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 0%;
+}
+.line{
+    line-height: 30%;
+}
+h5{
+    margin-left: -265%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px){
+    .logo{
+        margin-right: 24%;
+        width: 44%;}
+}
